@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Chat App</h1>
-<img src="./images/chat-app-preview.gif"/>
+<img src="./public/images/chat-app-preview.gif"/>
   <p align="center">
     A web-based messaging application that delivers messages instantaneously using Socket.io.
     <br /><br />
