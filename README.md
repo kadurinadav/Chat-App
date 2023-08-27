@@ -27,7 +27,7 @@
 
 ### Built With
 
-- **[React](https://reactjs.org/)**
+- **[React.js](https://reactjs.org/)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Socket.io](https://socket.io)**
 - **[MongoDB](https://www.mongodb.com/)**
