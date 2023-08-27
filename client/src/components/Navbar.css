@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: black;
+    padding: 10px;
+    justify-content: space-between;
+}
+.chat-logo{
+    color: white;
+    font-size: 20px;
+}
+
+.logout-button{
+    border: none;
+    padding: 6px 10px;
+    color: white;
+    background-color: #0892e2;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.logout-button:hover{
+    background-color: #37a2e0;
+}
+
+.logo-container img{
+    height: 40px;
+    width: 40px;
+}
+
+.chat-logo{
+    padding-left: 10px;
+}

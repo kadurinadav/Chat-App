@@ -1,0 +1,16 @@
+.chat-page {
+    background-color: #1f4347;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 70%;
+    height: 80%;
+    display: flex;
+    overflow: hidden;
+}

@@ -1,0 +1,52 @@
+.avatar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: #1e8fac;
+}
+
+.avatar-title{
+    color: white;
+}
+
+.avatars{
+display: flex;
+    gap: 1rem;
+}
+
+.avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.4rem solid transparent;
+}
+
+.selected{
+    border: 0.4rem solid #4e0eff;
+    border-radius: 50%;
+}
+
+.avatar img{
+    height: 6rem;
+    cursor: pointer;
+}
+
+.set-profile-btn{
+    gap:1rem;
+    border: none;
+    padding: 10px 15px;
+    color: white;
+    background-color: #4e0eff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.set-profile-btn:hover{
+    background-color: #4305ec;
+}

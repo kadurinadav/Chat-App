@@ -1,0 +1,10 @@
+.sidebar {
+    flex: 1;
+    background-color: white;
+  }
+  
+  .chats-container {
+    height: calc(100% - 50px); /* subtract the height of the navbar */
+    overflow-y: scroll;
+  }
+  

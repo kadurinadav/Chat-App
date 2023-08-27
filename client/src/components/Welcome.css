@@ -1,0 +1,28 @@
+.welcome{
+    flex: 2;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.welcome img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+}
+
+.welcome h1,h3{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.welcome span{
+    margin-left: 10px;
+    color: #1e8fac;
+}
