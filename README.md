@@ -48,7 +48,7 @@ Install latest version of npm
 
 1. Clone the project
    ```sh
-   git clone https://github.com/kadurinadav/chat-app.git
+   git clone https://github.com/kadurinadav/Chat-App.git
    ```
 2. Go to project directory and run the client and the server as instructed below. 
 
